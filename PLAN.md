@@ -9,8 +9,9 @@ STEPS
    for instance if you cloned an empty repo to start the project )
 4. yarn add --dev hardhat
 5. Install openzeppelin contracts
-6. yarn add --dev @openzeppelin/hardhat-upgrades
-7. yarn add --dev @nomicfoundation/hardhat-toolbox @nomicfoundation/hardhat-network-helpers @nomicfoundation/hardhat-chai-matchers @nomiclabs/hardhat-ethers @nomiclabs/hardhat-etherscan chai ethers hardhat-gas-reporter solidity-coverage @typechain/hardhat typechain @typechain/ethers-v5 @ethersproject/abi @ethersproject/providers
-8. start a new hardhat project
-9. yarn add --dev dotenv
-10. yarn hardhat
+6. yarn add @openzeppelin/contracts
+7. yarn add --dev @openzeppelin/hardhat-upgrades
+8. yarn add --dev @nomicfoundation/hardhat-toolbox @nomicfoundation/hardhat-network-helpers @nomicfoundation/hardhat-chai-matchers @nomiclabs/hardhat-ethers @nomiclabs/hardhat-etherscan chai ethers hardhat-gas-reporter solidity-coverage @typechain/hardhat typechain @typechain/ethers-v5 @ethersproject/abi @ethersproject/providers
+9. start a new hardhat project
+10. yarn add --dev dotenv
+11. yarn hardhat
